@@ -1,0 +1,9 @@
+# Ignore OS and temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore MS Word autosaves
+~$*.docx
+
+# Ignore any zip archives
+*.zip
