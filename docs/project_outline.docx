@@ -1,0 +1,27 @@
+Title: Regional Community College Student Enrollment Data Project
+
+1. Introduction
+   - Purpose of the project
+   - Overview of dataset and tools used
+
+2. Dataset Creation
+   - Data Source: Regional Community College Enrollment
+   - Manifest File: EnrollmentManifest.json
+   - S3 Bucket Details and Error Observations
+
+3. Sample Topic Creation
+   - Topic: Student Enrollment Statistics
+   - Visualizations generated
+   - Metrics explored
+
+4. Insights and Analysis
+   - Summary of findings
+   - Key enrollment trends
+
+5. Challenges and Resolutions
+   - Dataset creation error and resolution
+   - Observations from QuickSight
+
+6. Conclusion
+   - Reflections on data analysis process
+   - Skills applied and lessons learned
